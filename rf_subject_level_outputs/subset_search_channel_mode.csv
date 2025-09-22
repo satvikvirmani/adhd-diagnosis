@@ -1,0 +1,61 @@
+k,cv_accuracy,units
+2,0.7523333333333333,"Index(['P7__ewt5', 'Cz__ewt2'], dtype='object')"
+3,0.744,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5'], dtype='object')"
+4,0.744,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4'], dtype='object')"
+5,0.7186666666666667,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5'], dtype='object')"
+6,0.6946666666666667,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6'], dtype='object')"
+7,0.6779999999999999,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6'],
+      dtype='object')"
+8,0.7030000000000001,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2'],
+      dtype='object')"
+9,0.7026666666666668,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6'],
+      dtype='object')"
+10,0.686,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5'],
+      dtype='object')"
+11,0.686,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5', 'P7__original'],
+      dtype='object')"
+12,0.7023333333333333,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5', 'P7__original',
+       'Cz__emd5'],
+      dtype='object')"
+13,0.7023333333333333,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5', 'P7__original',
+       'Cz__emd5', 'Cz__emd1'],
+      dtype='object')"
+14,0.7193333333333334,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5', 'P7__original',
+       'Cz__emd5', 'Cz__emd1', 'Cz__emd6'],
+      dtype='object')"
+15,0.719,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5', 'P7__original',
+       'Cz__emd5', 'Cz__emd1', 'Cz__emd6', 'P3__original'],
+      dtype='object')"
+16,0.6943333333333334,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5', 'P7__original',
+       'Cz__emd5', 'Cz__emd1', 'Cz__emd6', 'P3__original', 'T7__vmd4'],
+      dtype='object')"
+17,0.7106666666666666,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5', 'P7__original',
+       'Cz__emd5', 'Cz__emd1', 'Cz__emd6', 'P3__original', 'T7__vmd4',
+       'O1__emd6'],
+      dtype='object')"
+18,0.7356666666666667,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5', 'P7__original',
+       'Cz__emd5', 'Cz__emd1', 'Cz__emd6', 'P3__original', 'T7__vmd4',
+       'O1__emd6', 'F8__vmd3'],
+      dtype='object')"
+19,0.719,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5', 'P7__original',
+       'Cz__emd5', 'Cz__emd1', 'Cz__emd6', 'P3__original', 'T7__vmd4',
+       'O1__emd6', 'F8__vmd3', 'Pz__vmd5'],
+      dtype='object')"
+20,0.7026666666666668,"Index(['P7__ewt5', 'Cz__ewt2', 'C3__vmd5', 'P7__emd4', 'F3__vmd5', 'P7__emd6',
+       'Pz__emd6', 'C3__ewt2', 'Pz__vmd6', 'F3__ewt5', 'P7__original',
+       'Cz__emd5', 'Cz__emd1', 'Cz__emd6', 'P3__original', 'T7__vmd4',
+       'O1__emd6', 'F8__vmd3', 'Pz__vmd5', 'P3__ewt1'],
+      dtype='object')"
